@@ -1,0 +1,526 @@
+OrderID,OrderDate,CustomerName,City,Product,Category,Quantity,Price
+1157,2026-03-13,Misty Ball, Delhi ,Printer,electronics,4.0,55000.0
+1182,2024-09-11,Samantha Burgess, Delhi ,Laptop,electronics,4.0,
+1446,2024-09-06,Ronald Francis,Mumbi,Monitor,Furniture,2.0,7000.0
+1285,2025-10-02,,Noida,laptop,furniture,,
+1450,2026-01-04,Lisa Johnson,Pune,Laptop,furniture,1.0,8000.0
+1088,2024-06-29,Patrick Roberts,Pune,LAPTOP,Furniture,3.0,8000.0
+1362,2025-12-19,Jeffrey Sandoval, Delhi ,Keyboard,furniture,3.0,12000.0
+1184,2026-03-26,Jennifer Brown, Delhi ,Keyboard,Furniture,2.0,55000.0
+1300,2024-10-02,Evan Reed,Pune,Chair,Electronics,3.0,
+1434,2025-10-29,Rebecca Harris,Delhi,Laptop,Furniture,4.0,55000.0
+1414,2024-08-23,Shannon Wilson,Pune,Laptop,furniture,2.0,7000.0
+1212,2024-07-11,Courtney Jones,Delhii,laptop,furniture,,8000.0
+1277,2025-07-29,,Mumbai,Printer,furniture,,55000.0
+1339,2025-02-08,Scott Wallace,Noida,LAPTOP,Electronics,4.0,7000.0
+1193,2024-11-28,Ellen Rivera,Mumbai,Keyboard,electronics,,4000.0
+1176,2024-06-26,Linda Parks,Mumbai,Chair,furniture,2.0,55000.0
+1232,2026-02-23,Robert Erickson,Noida,Mouse,furniture,5.0,4000.0
+1264,2025-12-22,Briana Mckee, Delhi ,laptop,electronics,1.0,4000.0
+1149,2026-02-05,Joel Townsend,Noida,LAPTOP,Furniture,5.0,7000.0
+1223,2025-04-19,Kimberly Gallegos,Delhii,Chair,Furniture,4.0,12000.0
+1336,2024-07-18,Mr. Isaiah Myers,Noida,Monitor,Electronics,1.0,500.0
+1109,2024-07-15,Dustin Wilkinson,Gurgaon,Printer,electronics,5.0,
+1086,2025-01-04,Joshua Anderson,Jaipur,Laptop,Electronics,2.0,8000.0
+1000,2026-01-10,Michael Tanner,Delhii,Monitor,furniture,4.0,500.0
+1439,2024-07-08,Pamela Carpenter,Noida,Keyboard,Furniture,1.0,4000.0
+1068,2025-11-02,Diana Ingram,Noida,Mouse,furniture,-1.0,4000.0
+1244,2025-12-24,,Gurgaon,laptop,furniture,4.0,55000.0
+1089,2025-12-02,,Noida,laptop,Furniture,3.0,55000.0
+1388,2025-04-15,John Wilson,Mumbi,Laptop,Electronics,1.0,4000.0
+1190,2025-07-13,Jennifer Wells,Mumbi,laptop,electronics,4.0,55000.0
+1044,2026-01-13,Jennifer Wright,Noida,Keyboard,furniture,4.0,12000.0
+1354,2025-01-07,Joseph Oliver,Delhi,Chair,Electronics,4.0,
+1417,2025-08-09,Michael Martinez,Jaipur,laptop,Furniture,1.0,500.0
+1389,2025-11-24,Andrew Alvarez PhD,Jaipur,laptop,electronics,2.0,1500.0
+1241,2025-05-22,Michelle Suarez,Mumbi,Chair,Furniture,-1.0,12000.0
+1092,2025-05-10,Nathan Meyer,Pune,Printer,furniture,5.0,12000.0
+1307,2024-07-29,Samuel Rollins,Mumbai,laptop,Electronics,4.0,55000.0
+1082,2025-01-05,Lindsey Barnett DVM,Pune,Chair,electronics,2.0,1500.0
+1014,2025-11-10,Brian Cisneros,Mumbai,Keyboard,furniture,-1.0,500.0
+1332,2024-12-24,Christopher Kent,Delhii,Laptop,electronics,3.0,
+1258,2025-07-02,,Gurgaon,Desk,furniture,2.0,4000.0
+1150,2026-06-01,Julie Wallace, Delhi ,Keyboard,electronics,1.0,1500.0
+1434,2025-11-04,Cameron Brown,Mumbi,Mouse,furniture,4.0,4000.0
+1416,2024-07-20,Robert Campbell,Noida,LAPTOP,furniture,-1.0,8000.0
+1413,2026-04-07,Frank Parsons,Gurgaon,Mouse,Electronics,,4000.0
+1065,2024-06-08,,Jaipur,Monitor,furniture,1.0,500.0
+1427,2026-05-20,Susan Shepard,Mumbi,Chair,furniture,-1.0,1500.0
+1163,2025-11-19,Alicia Kramer,Noida,Monitor,Furniture,4.0,4000.0
+1316,2025-10-10,,Mumbai,Printer,Electronics,-1.0,8000.0
+1272,2024-07-30,Christie Welch,Delhi,Desk,Electronics,5.0,7000.0
+1309,2025-10-15,Shane Adams,Delhii,Keyboard,electronics,1.0,
+1339,2024-08-31,Alexandra Bailey,Noida,Mouse,Electronics,,7000.0
+1446,2024-11-19,Kelly Sullivan, Delhi ,Keyboard,furniture,4.0,7000.0
+1184,2025-02-13,Cheryl Cummings,Delhi,Mouse,Electronics,-1.0,500.0
+1217,2025-11-27,Derek Clarke, Delhi ,Desk,Furniture,3.0,1500.0
+1255,2025-10-11,Tammy Clark,Noida,laptop,Furniture,5.0,7000.0
+1240,2024-12-31,Scott Jackson, Delhi ,Desk,Electronics,2.0,12000.0
+1442,2024-11-18,Danielle Roberts,Gurgaon,LAPTOP,Electronics,2.0,55000.0
+1086,2025-12-05,Christina Dunn,Delhii,laptop,Furniture,1.0,4000.0
+1320,2025-09-07,Lisa Ballard,Delhii,Desk,furniture,1.0,8000.0
+1009,2026-02-12,Sandra Nelson,Mumbai,laptop,Electronics,3.0,7000.0
+1300,2025-12-09,Amber Pitts,Gurgaon,Desk,furniture,5.0,55000.0
+1218,2026-01-25,Jo Lowery,Gurgaon,Keyboard,electronics,1.0,
+1418,2026-05-08,Anthony Martinez,Mumbi,laptop,Furniture,,12000.0
+1001,2025-02-03,Christine Ryan,Noida,Chair,electronics,2.0,12000.0
+1210,2025-07-12,,Pune,laptop,furniture,4.0,12000.0
+1301,2024-08-09,Kevin George,Delhii,Monitor,electronics,3.0,8000.0
+1147,2025-05-30,Tiffany Foster,Mumbai,Laptop,electronics,4.0,8000.0
+1440,2024-12-16,,Delhii,Laptop,Furniture,5.0,1500.0
+1136,2025-03-19,Allen Nolan,Mumbi,laptop,Electronics,2.0,55000.0
+1037,2025-12-22,Miguel Parker,Gurgaon,laptop,furniture,,
+1312,2025-05-03,Jennifer Lopez,Noida,Desk,electronics,,12000.0
+1027,2025-07-13,Catherine Miranda,Delhii,Desk,Furniture,1.0,7000.0
+1096,2024-08-05,Lisa Chapman, Delhi ,laptop,electronics,5.0,4000.0
+1388,2026-06-02,Michael Lee,Delhii,Monitor,Furniture,,12000.0
+1128,2025-04-16,Steven Chandler,Jaipur,Keyboard,electronics,1.0,500.0
+1017,2024-07-28,Jeffrey Greene,Jaipur,Desk,Furniture,1.0,8000.0
+1419,2025-02-22,,Pune,Printer,Electronics,,7000.0
+1214,2025-10-26,Craig Lopez,Noida,Mouse,furniture,,1500.0
+1339,2025-06-01,Robert Tate,Noida,Chair,Electronics,5.0,7000.0
+1070,2024-11-05,Patrick Myers, Delhi ,laptop,furniture,5.0,8000.0
+1265,2024-08-17,Adam Whitehead,Jaipur,Monitor,furniture,-1.0,12000.0
+1052,2025-11-04,Elizabeth Williams,Delhi,Monitor,Electronics,4.0,8000.0
+1014,2025-12-16,Michael Rodriguez,Mumbi,Mouse,Furniture,1.0,500.0
+1434,2026-01-06,Amy Smith,Jaipur,Laptop,electronics,-1.0,1500.0
+1166,2025-12-10,Maria Morgan,Jaipur,Desk,furniture,1.0,7000.0
+1407,2025-05-21,Lee Klein,Pune,Monitor,electronics,2.0,8000.0
+1347,2025-08-18,Jerry Greene,Mumbi,Printer,Electronics,1.0,
+1314,2025-01-17,,Noida,Laptop,electronics,,1500.0
+1089,2025-08-23,Brandi Schneider,Mumbi,Monitor,electronics,2.0,4000.0
+1032,2025-01-03,David Cole,Noida,Chair,furniture,5.0,1500.0
+1268,2025-07-08,James Taylor,Jaipur,Mouse,Electronics,1.0,1500.0
+1017,2026-04-08,Whitney Jackson,Mumbi,Monitor,electronics,1.0,1500.0
+1253,2025-03-31,Stephanie Herrera,Delhii,Mouse,Electronics,3.0,12000.0
+1263,2024-09-20,Richard Thomas,Delhii,Keyboard,Electronics,1.0,7000.0
+1210,2025-10-12,Mrs. Jennifer Steele,Noida,Keyboard,Furniture,5.0,7000.0
+1131,2024-06-12,,Mumbi,Chair,Electronics,2.0,12000.0
+1225,2025-07-04,Kylie Mccarthy,Noida,Desk,Electronics,-1.0,4000.0
+1315,2024-07-06,Alicia Ford, Delhi ,laptop,electronics,-1.0,500.0
+1317,2025-03-26,John Nolan,Delhii,Chair,Electronics,4.0,55000.0
+1075,2026-01-03,Tanya Lester,Pune,Monitor,Furniture,2.0,500.0
+1296,2025-02-19,Sharon Simmons,Delhi,Keyboard,furniture,-1.0,
+1078,2025-12-30,Sarah Decker,Mumbai,Printer,Furniture,2.0,12000.0
+1117,2024-10-06,Jennifer Black,Mumbi,LAPTOP,Electronics,,7000.0
+1196,2026-01-12,,Pune,Chair,Furniture,,7000.0
+1164,2025-04-29,Teresa Allen,Delhi,Chair,furniture,3.0,7000.0
+1377,2024-06-26,Melissa Sutton,Noida,Chair,electronics,2.0,7000.0
+1348,2024-10-05,Caleb Pineda,Pune,laptop,Furniture,5.0,1500.0
+1307,2026-01-10,Justin Medina,Jaipur,Desk,Electronics,2.0,12000.0
+1158,2025-05-07,Jasmine Logan,Noida,laptop,Electronics,1.0,7000.0
+1316,2026-04-01,Matthew Turner,Noida,Keyboard,Furniture,3.0,8000.0
+1265,2026-02-23,Dale Martin,Delhi,Desk,Electronics,3.0,12000.0
+1414,2024-08-10,Sarah Kelly,Jaipur,Desk,Furniture,4.0,
+1354,2025-10-13,Elizabeth Miller,Delhi,Mouse,electronics,1.0,4000.0
+1010,2026-04-05,Rebecca Sheppard,Jaipur,Printer,electronics,2.0,1500.0
+1130,2025-12-29,Christopher Smith,Delhi,Keyboard,electronics,3.0,
+1066,2025-09-20,Anthony Green,Noida,Laptop,Furniture,4.0,8000.0
+1168,2024-08-23,Bryce Farmer,Mumbai,Desk,Furniture,3.0,4000.0
+1408,2025-02-07,Walter Kramer,Delhi,LAPTOP,Furniture,-1.0,12000.0
+1366,2025-04-28,Sherry Bowers,Pune,Chair,Furniture,,4000.0
+1080,2025-09-19,Carl Cruz,Noida,Keyboard,electronics,3.0,500.0
+1431,2025-03-08,Manuel Oneill,Pune,LAPTOP,Furniture,4.0,55000.0
+1019,2026-03-17,Justin Wilkerson,Gurgaon,LAPTOP,furniture,4.0,500.0
+1360,2025-03-28,Susan Walker, Delhi ,Chair,furniture,,55000.0
+1314,2025-09-11,Dawn Mckenzie,Mumbai,Laptop,Electronics,5.0,7000.0
+1292,2024-08-13,James Long,Noida,Mouse,electronics,1.0,12000.0
+1252,2025-02-02,Jamie Bryant,Mumbi,laptop,Furniture,4.0,7000.0
+1141,2025-12-23,Stacy Parker,Mumbai,Keyboard,electronics,2.0,
+1418,2024-07-01,Samuel Brown,Delhii,laptop,Electronics,,8000.0
+1012,2024-07-01,Jessica Morrow DVM,Gurgaon,Keyboard,furniture,,55000.0
+1169,2025-06-01,Karen Rice,Gurgaon,laptop,Furniture,,
+1377,2025-10-11,Travis White,Jaipur,Printer,Furniture,-1.0,8000.0
+1200,2025-09-02,Joseph Quinn,Delhii,LAPTOP,furniture,5.0,7000.0
+1130,2025-03-03,Anthony Campbell,Mumbi,Desk,Furniture,2.0,
+1437,2024-08-11,,Delhii,Keyboard,Furniture,-1.0,
+1063,2026-02-10,Ronald Griffith,Gurgaon,LAPTOP,electronics,-1.0,7000.0
+1247,2026-01-08,Jeffery Sims,Noida,LAPTOP,Electronics,1.0,55000.0
+1428,2025-02-14,,Jaipur,LAPTOP,electronics,-1.0,12000.0
+1273,2024-09-03,Derek Miller,Pune,Chair,Furniture,-1.0,1500.0
+1115,2026-01-20,Cynthia Wolf,Pune,Keyboard,Electronics,1.0,12000.0
+1380,2025-05-11,Mr. Daniel Young,Noida,Desk,Furniture,-1.0,12000.0
+1307,2025-02-02,Angela Jackson, Delhi ,Monitor,Electronics,1.0,500.0
+1155,2026-01-10,Matthew Goodwin,Pune,Printer,Electronics,-1.0,55000.0
+1379,2025-11-10,Helen Smith,Pune,Monitor,furniture,4.0,12000.0
+1400,2024-07-16,William Crosby,Noida,Laptop,electronics,-1.0,4000.0
+1375,2026-05-30,Michael Davis,Delhi,LAPTOP,furniture,-1.0,500.0
+1404,2024-12-25,Monica Hill,Gurgaon,Monitor,Furniture,,4000.0
+1339,2025-12-07,Wendy Smith,Jaipur,Chair,furniture,,1500.0
+1264,2025-02-16,Thomas Gregory,Noida,Monitor,Electronics,,1500.0
+1263,2026-04-05,Robin Vargas,Jaipur,Laptop,Furniture,5.0,7000.0
+1189,2024-06-15,Nicholas Martinez,Noida,Printer,electronics,1.0,1500.0
+1386,2025-06-29,Lisa Lee,Delhi,Chair,furniture,5.0,4000.0
+1274,2024-10-13,Cynthia Martin,Jaipur,Mouse,furniture,2.0,1500.0
+1391,2025-01-05,Omar Thomas,Delhi,Printer,furniture,1.0,1500.0
+1176,2025-04-14,Steven Spencer,Mumbai,Desk,electronics,-1.0,8000.0
+1207,2025-09-20,James Oliver,Gurgaon,Printer,electronics,2.0,55000.0
+1265,2024-08-06,Anthony Ross,Pune,Chair,Electronics,-1.0,12000.0
+1283,2024-08-15,Terri Quinn,Mumbi,Desk,Electronics,1.0,500.0
+1050,2024-09-18,Cassandra Benitez,Delhi,LAPTOP,furniture,-1.0,4000.0
+1016,2025-12-22,Eric Yates,Mumbai,LAPTOP,Electronics,-1.0,55000.0
+1257,2025-11-20,Sean Little,Delhii,Keyboard,Furniture,3.0,4000.0
+1096,2026-03-05,Mary Lucas,Gurgaon,Monitor,electronics,,55000.0
+1388,2025-09-10,Brandi Santos,Noida,Chair,furniture,1.0,7000.0
+1120,2025-02-10,Michael Anderson,Jaipur,LAPTOP,Furniture,1.0,
+1442,2025-03-15,Phyllis Salazar,Mumbai,Monitor,electronics,,1500.0
+1029,2025-06-06,April Stokes,Pune,LAPTOP,electronics,4.0,7000.0
+1014,2026-02-10,Joshua Flynn,Delhi,Chair,Electronics,4.0,1500.0
+1370,2024-08-10,Diane Fernandez,Noida,Laptop,Electronics,4.0,8000.0
+1183,2025-08-14,Dwayne Lee,Mumbai,Monitor,furniture,,
+1341,2025-05-13,Brandy Harris,Mumbi,Desk,Electronics,3.0,1500.0
+1092,2025-06-20,Brittany Lane, Delhi ,laptop,Furniture,4.0,
+1222,2025-03-24,Jason Ayala,Delhi,Keyboard,Furniture,-1.0,12000.0
+1218,2025-10-28,Cameron Edwards,Jaipur,Printer,furniture,5.0,1500.0
+1296,2025-12-13,Ryan Herrera,Mumbi,Chair,furniture,5.0,7000.0
+1215,2024-11-28,Steven Callahan,Mumbi,laptop,furniture,,12000.0
+1108,2025-09-30,Kristen Cook,Gurgaon,Desk,Electronics,3.0,55000.0
+1083,2026-01-27,Carol Stone,Mumbai,Keyboard,furniture,,7000.0
+1371,2026-04-06,Michael Martinez,Jaipur,laptop,Furniture,2.0,500.0
+1062,2024-06-27,Mia Rodriguez,Jaipur,Keyboard,Furniture,,
+1429,2026-02-06,George Day,Mumbi,LAPTOP,Electronics,-1.0,55000.0
+1019,2026-03-27,Tyler Maynard,Mumbai,Keyboard,electronics,5.0,500.0
+1217,2025-08-13,Julie Sharp,Mumbai,Keyboard,Electronics,2.0,500.0
+1209,2025-12-06,Sharon Davila,Mumbi,Printer,furniture,,1500.0
+1358,2024-06-04,Sandy Bush,Mumbi,Monitor,Furniture,3.0,
+1069,2025-05-07,Jason Lara,Mumbai,Monitor,Furniture,5.0,8000.0
+1061,2024-12-26,Sheryl Hubbard DDS,Pune,Mouse,Electronics,4.0,500.0
+1413,2025-05-11,Heidi Phillips,Pune,Desk,furniture,1.0,500.0
+1208,2025-12-29,Jill Vasquez,Delhi,Desk,furniture,,12000.0
+1334,2026-04-21,Andrew Green,Delhii,Laptop,Electronics,3.0,1500.0
+1279,2026-01-18,Megan Johnson,Delhii,Mouse,Furniture,,500.0
+1418,2024-09-04,Jeffery Mills,Mumbai,Monitor,Furniture,,8000.0
+1380,2024-10-17,Sharon Simon,Mumbai,Printer,Furniture,3.0,500.0
+1261,2026-01-25,Kimberly Cohen,Gurgaon,Desk,furniture,2.0,4000.0
+1408,2025-01-16,Kimberly Williams,Jaipur,laptop,electronics,5.0,8000.0
+1295,2026-03-27,Raven Case,Mumbai,Monitor,furniture,1.0,12000.0
+1103,2024-06-17,Steven Wright,Noida,Keyboard,Electronics,3.0,55000.0
+1235,2024-11-05,Madeline Bradshaw,Gurgaon,LAPTOP,Electronics,,4000.0
+1307,2024-11-11,Kenneth Martinez,Pune,Desk,Electronics,-1.0,1500.0
+1192,2025-06-14,Erica Gray,Noida,laptop,Furniture,5.0,8000.0
+1007,2024-10-25,Stephanie Hernandez,Jaipur,Monitor,Electronics,1.0,8000.0
+1367,2026-01-12,James Bender,Mumbi,LAPTOP,furniture,2.0,7000.0
+1107,2025-02-13,Sarah Harris,Mumbai,Laptop,electronics,5.0,8000.0
+1381,2025-09-29,John Scott,Delhi,laptop,Furniture,1.0,8000.0
+1108,2026-01-28,Christopher Johnson,Delhii,Chair,furniture,2.0,
+1114,2024-08-07,Tracy Moore,Jaipur,LAPTOP,furniture,4.0,4000.0
+1055,2024-06-28,Matthew Green,Mumbai,Laptop,Electronics,,8000.0
+1372,2024-09-30,Linda White,Pune,Keyboard,electronics,5.0,1500.0
+1299,2024-07-03,Michael Vincent,Mumbi,Laptop,Furniture,1.0,500.0
+1126,2024-11-12,William Murray,Delhi,Chair,Electronics,-1.0,
+1076,2025-04-04,Todd Johnson,Noida,Monitor,electronics,,1500.0
+1246,2025-08-29,William Cruz,Gurgaon,Laptop,electronics,-1.0,7000.0
+1009,2025-07-02,Morgan Kennedy,Jaipur,Desk,furniture,3.0,
+1220,2025-07-11,Richard Allen,Delhii,Monitor,Furniture,1.0,4000.0
+1134,2024-09-20,Angela Watson,Mumbi,Monitor,electronics,1.0,12000.0
+1144,2025-03-12,Rebecca Wright,Delhi,LAPTOP,electronics,1.0,7000.0
+1121,2026-01-29,Donna Malone, Delhi ,Keyboard,electronics,,8000.0
+1199,2025-01-12,Michelle Strong,Noida,Monitor,Furniture,-1.0,55000.0
+1412,2025-10-26,Carolyn Gordon,Delhi,laptop,Electronics,5.0,4000.0
+1335,2024-06-24,Gary Morales,Pune,Mouse,Furniture,4.0,4000.0
+1295,2025-04-13,Angela Rivas,Jaipur,LAPTOP,furniture,-1.0,1500.0
+1403,2025-01-11,Joshua Miranda,Mumbai,Printer,electronics,-1.0,
+1007,2024-11-06,Taylor Stevens,Delhii,Keyboard,electronics,-1.0,4000.0
+1227,2024-08-10,Mrs. Jennifer Frederick,Noida,Laptop,Electronics,5.0,4000.0
+1160,2024-10-20,Erica Cunningham,Mumbai,Mouse,furniture,1.0,55000.0
+1402,2024-11-01,Jennifer Adams,Delhi,Printer,Furniture,-1.0,55000.0
+1314,2025-12-10,Allen Eaton,Noida,Keyboard,electronics,2.0,8000.0
+1139,2025-04-04,Russell Owens, Delhi ,LAPTOP,electronics,3.0,12000.0
+1056,2024-10-03,Jasmine Fisher,Delhi,Laptop,furniture,2.0,8000.0
+1157,2026-04-05,,Delhi,Printer,furniture,2.0,55000.0
+1109,2026-04-05,Rhonda Pierce,Delhii,Mouse,furniture,4.0,55000.0
+1407,2024-10-20,James Park,Jaipur,Desk,Electronics,2.0,1500.0
+1175,2024-07-21,Stephen Stein,Pune,Keyboard,Electronics,3.0,12000.0
+1031,2024-08-21,Nicole Graham,Jaipur,Keyboard,electronics,4.0,500.0
+1282,2025-01-27,John Miller,Delhii,Laptop,electronics,4.0,7000.0
+1449,2026-03-15,Kevin Thomas,Gurgaon,Laptop,electronics,3.0,4000.0
+1125,2025-03-11,Bradley Roberson,Mumbai,LAPTOP,Electronics,5.0,4000.0
+1078,2024-09-12,Shawn Shelton,Delhi,Printer,Furniture,2.0,1500.0
+1033,2024-12-30,Jose Reyes,Delhi,Mouse,furniture,5.0,7000.0
+1283,2024-08-02,Gail Munoz,Pune,laptop,furniture,2.0,7000.0
+1134,2026-04-06,Angelica Combs,Delhii,laptop,Electronics,1.0,500.0
+1144,2025-07-15,Jamie Nicholson,Mumbai,Desk,Furniture,2.0,1500.0
+1309,2024-07-04,Zachary Cowan, Delhi ,Monitor,electronics,5.0,12000.0
+1114,2024-06-14,Julie Richards,Delhii,laptop,furniture,-1.0,1500.0
+1393,2024-06-15,Michael Weaver,Delhi,Printer,furniture,-1.0,500.0
+1347,2025-05-22,Melissa Graham,Mumbi,Monitor,electronics,3.0,7000.0
+1302,2025-06-23,Arthur Myers Jr.,Gurgaon,Printer,furniture,4.0,1500.0
+1265,2025-01-04,Timothy Williams, Delhi ,Chair,Furniture,,
+1136,2026-04-25,Brenda Thompson,Mumbai,Printer,furniture,3.0,1500.0
+1282,2025-07-05,Jim Dillon,Mumbai,Laptop,electronics,2.0,500.0
+1225,2024-09-08,Kevin Holmes,Mumbi,laptop,furniture,4.0,1500.0
+1253,2025-09-22,Mark Rodriguez,Gurgaon,Keyboard,Furniture,3.0,55000.0
+1333,2025-01-12,Christina Kline,Gurgaon,Desk,furniture,2.0,7000.0
+1438,2026-05-26,Thomas Morris, Delhi ,Laptop,electronics,4.0,1500.0
+1407,2026-02-22,Jennifer Johnson,Pune,Keyboard,furniture,2.0,8000.0
+1206,2024-11-27,Daniel Floyd,Gurgaon,Desk,Electronics,-1.0,8000.0
+1330,2025-12-09,Amber Williams,Noida,Mouse,Furniture,2.0,
+1230,2026-01-04,Steven Sutton,Mumbai,laptop,electronics,,8000.0
+1090,2025-04-24,Heidi Diaz,Delhi,Chair,Electronics,5.0,4000.0
+1179,2026-02-25,Melissa Thomas,Delhi,Chair,furniture,5.0,4000.0
+1009,2025-12-27,Jane Donaldson,Delhi,Chair,electronics,,12000.0
+1151,2026-03-14,Patricia Smith,Delhi,Keyboard,furniture,,7000.0
+1145,2026-05-27,Jon Baldwin,Delhi,laptop,Electronics,,12000.0
+1408,2026-03-23,Patricia Aguilar, Delhi ,Monitor,Furniture,3.0,55000.0
+1104,2025-12-23,Daniel Austin, Delhi ,Laptop,furniture,-1.0,55000.0
+1399,2024-11-17,Jeffrey Anthony,Delhi,LAPTOP,Furniture,5.0,4000.0
+1249,2026-02-28,Mary Clark,Gurgaon,Desk,Electronics,4.0,7000.0
+1278,2024-09-25,Anthony Norris,Delhi,Monitor,Furniture,,
+1366,2025-04-28,Jacqueline Johnson,Delhii,Monitor,furniture,-1.0,
+1392,2024-12-27,Kevin Williams,Noida,Monitor,furniture,5.0,7000.0
+1441,2025-01-22,Monica Glass,Mumbai,Desk,Furniture,3.0,8000.0
+1267,2024-10-27,Dr. Michael Thompson PhD,Gurgaon,LAPTOP,electronics,3.0,8000.0
+1343,2025-12-14,Leslie Ruiz, Delhi ,Printer,Furniture,1.0,
+1160,2025-06-14,Jacqueline White,Pune,Laptop,Furniture,-1.0,1500.0
+1378,2026-01-07,Diana Baker,Jaipur,Keyboard,electronics,,
+1278,2024-11-27,Taylor Johnson, Delhi ,Printer,Furniture,2.0,
+1200,2026-03-23,Nancy Clark,Delhi,Mouse,electronics,5.0,
+1335,2025-02-28,Dana Blankenship,Mumbai,LAPTOP,furniture,1.0,1500.0
+1222,2025-04-14,Mark Austin,Delhi,Mouse,electronics,4.0,500.0
+1431,2026-04-25,David Jimenez,Noida,Keyboard,Electronics,4.0,55000.0
+1313,2026-05-16,Carl Sampson,Mumbai,Chair,electronics,,55000.0
+1412,2025-08-25,James Sparks,Mumbi,Mouse,Electronics,-1.0,8000.0
+1327,2024-11-30,Mary Soto,Gurgaon,Laptop,Furniture,1.0,1500.0
+1023,2026-03-21,Bryan Morgan,Pune,Keyboard,Electronics,3.0,7000.0
+1139,2026-05-14,Maria Jones, Delhi ,Printer,Electronics,1.0,1500.0
+1346,2026-03-31,William Cochran,Jaipur,Monitor,Furniture,4.0,55000.0
+1120,2025-08-09,Scott Guzman,Delhi,Mouse,furniture,-1.0,500.0
+1176,2026-04-30,Erin Kelley,Jaipur,Mouse,electronics,-1.0,4000.0
+1214,2024-07-13,Michael Melendez,Mumbai,Chair,furniture,-1.0,
+1358,2025-08-12,Matthew Mcgrath,Jaipur,Monitor,Furniture,3.0,4000.0
+1223,2025-11-14,Marie Hunt,Delhii,Monitor,Electronics,4.0,500.0
+1045,2026-05-06,Brittany Patterson,Mumbai,Printer,Electronics,4.0,1500.0
+1242,2024-12-23,Brian Wright,Jaipur,Mouse,Electronics,1.0,1500.0
+1320,2026-02-05,Miss Barbara Robinson DVM,Delhii,Laptop,furniture,4.0,500.0
+1125,2024-07-31,Brandon Key,Noida,LAPTOP,furniture,3.0,500.0
+1093,2025-04-02,,Noida,Laptop,furniture,4.0,1500.0
+1085,2024-09-02,Micheal Crawford,Gurgaon,Desk,furniture,1.0,12000.0
+1181,2024-10-24,Sandra Murray,Noida,laptop,furniture,3.0,7000.0
+1166,2025-12-09,Kimberly Morrow, Delhi ,Laptop,Furniture,2.0,
+1229,2025-07-03,Anthony Kim,Delhii,Printer,Furniture,3.0,8000.0
+1135,2026-03-14,Mrs. Erika Gonzales MD,Gurgaon,Keyboard,Furniture,3.0,500.0
+1170,2025-08-28,Alejandro Berry, Delhi ,Printer,Furniture,2.0,12000.0
+1040,2024-06-09,Shelby Smith,Mumbai,laptop,furniture,-1.0,55000.0
+1425,2025-03-19,Benjamin Brown,Pune,Monitor,furniture,,1500.0
+1237,2024-11-28,Angela Miller,Delhii,Chair,Electronics,1.0,7000.0
+1208,2024-11-07,Brittney Hernandez,Jaipur,Monitor,furniture,1.0,500.0
+1358,2025-10-21,Albert Lambert,Delhii,Monitor,Furniture,1.0,500.0
+1331,2024-12-06,Nicholas Cook,Mumbai,Laptop,furniture,4.0,4000.0
+1293,2025-12-20,Sarah Ortiz,Delhii,Laptop,furniture,2.0,7000.0
+1394,2025-02-11,Joel Salazar,Jaipur,Monitor,furniture,3.0,55000.0
+1196,2025-07-02,Michael Reilly,Delhii,Chair,electronics,-1.0,
+1369,2024-10-17,Stephanie Larsen,Pune,Mouse,electronics,1.0,55000.0
+1264,2024-06-12,Lisa Moore,Delhii,Monitor,furniture,2.0,12000.0
+1250,2024-09-17,Lauren Gonzalez,Delhii,Mouse,electronics,3.0,12000.0
+1042,2024-12-04,,Pune,Chair,Electronics,3.0,55000.0
+1250,2025-02-22,Amy Lopez,Delhii,LAPTOP,furniture,4.0,1500.0
+1422,2025-01-11,Nicholas Rivera,Noida,Printer,Furniture,4.0,
+1358,2024-06-04,Karen Stephenson,Jaipur,Chair,Electronics,5.0,7000.0
+1363,2026-03-10,Dr. Kevin Allen,Mumbi,Keyboard,electronics,4.0,1500.0
+1055,2026-02-09,Jeffrey Morgan,Mumbai,Mouse,Furniture,,12000.0
+1114,2026-02-04,Martin Mills,Mumbi,Monitor,Electronics,-1.0,7000.0
+1313,2026-03-20,Timothy Lambert,Noida,LAPTOP,electronics,3.0,8000.0
+1038,2025-09-01,Benjamin Villegas,Pune,Monitor,furniture,2.0,7000.0
+1375,2025-03-23,Jeremy Gibson,Mumbai,Printer,Electronics,5.0,8000.0
+1116,2024-11-14,John Walton,Jaipur,Monitor,Furniture,-1.0,
+1374,2025-07-21,Donna Fisher,Mumbi,Printer,Furniture,,4000.0
+1446,2026-01-20,Walter Wright,Gurgaon,Mouse,furniture,,1500.0
+1170,2024-08-26,Patricia Smith,Mumbai,Keyboard,electronics,-1.0,12000.0
+1040,2026-01-08,Renee Lane,Noida,Keyboard,electronics,1.0,8000.0
+1054,2024-06-08,Matthew Fitzpatrick,Delhii,Chair,furniture,2.0,500.0
+1432,2024-07-11,Robin Buck,Gurgaon,Laptop,Furniture,3.0,1500.0
+1094,2026-05-29,Ralph Fisher,Delhii,Printer,Furniture,5.0,500.0
+1019,2024-08-22,James Lucas,Noida,Printer,furniture,-1.0,4000.0
+1091,2026-05-22,Brian Rogers,Gurgaon,Monitor,electronics,1.0,7000.0
+1214,2025-09-22,Michael Ray,Noida,Monitor,Electronics,,
+1373,2025-04-03,Dominique Payne,Delhii,Keyboard,Electronics,1.0,1500.0
+1357,2025-02-26,Timothy Carter,Delhii,LAPTOP,electronics,5.0,12000.0
+1115,2025-08-12,Angela Parker,Delhi,Desk,Furniture,1.0,500.0
+1074,2025-08-23,Jason Lewis,Delhii,Mouse,Furniture,-1.0,8000.0
+1355,2025-10-24,Anthony Scott,Mumbi,Monitor,Electronics,3.0,8000.0
+1380,2026-01-16,Matthew Rodriguez,Pune,Printer,Electronics,2.0,8000.0
+1442,2025-12-17,Jacob Miller,Pune,laptop,furniture,2.0,12000.0
+1239,2025-06-06,Karen Molina,Delhi,LAPTOP,Electronics,5.0,55000.0
+1149,2026-06-04,Jessica Beck,Noida,laptop,Furniture,1.0,4000.0
+1249,2024-07-09,Kayla Allen,Jaipur,Laptop,Electronics,,7000.0
+1374,2025-05-02,Daniel Scott,Pune,LAPTOP,Furniture,3.0,8000.0
+1135,2026-02-19,Daniel Escobar,Delhi,LAPTOP,Furniture,5.0,500.0
+1254,2025-04-18,Alicia Morton,Delhi,LAPTOP,Electronics,5.0,55000.0
+1075,2024-09-18,Anthony Chavez,Delhii,Printer,electronics,,55000.0
+1408,2026-03-27,Deanna Trevino,Noida,Printer,Electronics,,1500.0
+1146,2025-01-15,Lori Harrell,Noida,Desk,Furniture,2.0,500.0
+1278,2024-12-30,Desiree Kelley,Jaipur,Printer,Electronics,5.0,12000.0
+1297,2026-04-12,Christopher Green,Delhii,Monitor,electronics,1.0,55000.0
+1016,2025-11-03,Robin Cruz,Delhi,laptop,furniture,5.0,1500.0
+1081,2025-08-17,Robert Russell,Delhii,LAPTOP,Electronics,4.0,8000.0
+1176,2025-06-01,Anthony Mcmillan,Noida,Chair,Furniture,4.0,55000.0
+1116,2025-09-02,Jennifer Evans, Delhi ,Printer,electronics,3.0,55000.0
+1186,2024-09-06,Margaret Williams,Delhi,Laptop,Electronics,5.0,1500.0
+1044,2025-02-11,Felicia Adams,Delhii,Monitor,electronics,,1500.0
+1416,2026-03-16,Jacob Bradford,Pune,Mouse,furniture,5.0,12000.0
+1400,2026-03-27,Jason Moore, Delhi ,Monitor,furniture,4.0,
+1160,2025-07-25,Leah Garza,Delhi,Monitor,furniture,3.0,55000.0
+1228,2025-09-08,Jonathan Walton, Delhi ,Mouse,Electronics,5.0,
+1146,2025-02-02,Jose Ford,Jaipur,laptop,Furniture,1.0,12000.0
+1327,2026-04-07,Suzanne Ramirez,Gurgaon,Desk,Electronics,,1500.0
+1292,2025-09-18,Jennifer Rogers,Pune,Printer,Electronics,-1.0,8000.0
+1223,2024-07-21,Mary Scott,Gurgaon,laptop,furniture,3.0,4000.0
+1046,2024-09-27,Gregory Gibson,Gurgaon,Desk,Electronics,3.0,500.0
+1169,2024-08-09,Jason Ibarra,Delhii,Laptop,Electronics,1.0,12000.0
+1241,2025-11-08,Monica Waters,Jaipur,Monitor,furniture,3.0,55000.0
+1441,2025-06-21,Christopher Fernandez,Gurgaon,Desk,Electronics,,
+1130,2025-03-10,Leslie Perry,Jaipur,Chair,electronics,3.0,7000.0
+1388,2024-07-17,Tammy Monroe,Delhi,Monitor,electronics,5.0,
+1289,2026-03-22,Shannon Jordan,Mumbi,Chair,Furniture,2.0,500.0
+1076,2026-03-15,Edward Garcia,Noida,Keyboard,Electronics,4.0,8000.0
+1069,2025-05-29,Vincent Cooper, Delhi ,laptop,furniture,4.0,1500.0
+1260,2025-03-28,Thomas Rogers,Gurgaon,Chair,furniture,3.0,12000.0
+1070,2025-03-23,Darryl Jones,Mumbi,Printer,furniture,-1.0,
+1085,2025-03-23,Carlos Diaz,Delhi,Desk,electronics,1.0,1500.0
+1129,2025-12-23,Joshua Le, Delhi ,Keyboard,Furniture,1.0,1500.0
+1424,2024-06-30,John Reynolds,Mumbai,Desk,Furniture,1.0,1500.0
+1343,2025-02-15,Kayla Gutierrez, Delhi ,Laptop,furniture,2.0,4000.0
+1137,2025-09-20,Megan Erickson,Gurgaon,Keyboard,electronics,3.0,12000.0
+1042,2026-01-25,Malik Schroeder,Noida,Mouse,Electronics,5.0,
+1273,2025-06-26,Tamara Smith,Mumbai,Printer,Electronics,4.0,1500.0
+1392,2025-05-19,Gary Miller,Gurgaon,Mouse,Electronics,1.0,55000.0
+1080,2026-01-28,Deborah Jenkins,Mumbi,Keyboard,furniture,2.0,12000.0
+1196,2025-09-12,Danny Newton,Mumbai,Chair,Electronics,3.0,8000.0
+1325,2024-09-01,Keith Fox,Delhi,laptop,Furniture,1.0,12000.0
+1014,2025-02-06,Joseph Wilson,Noida,Chair,electronics,5.0,55000.0
+1138,2026-04-03,Elizabeth Middleton, Delhi ,laptop,Furniture,,7000.0
+1361,2024-07-16,Tina Washington,Noida,Desk,furniture,1.0,7000.0
+1391,2024-10-02,Kimberly Campbell,Pune,Monitor,furniture,3.0,500.0
+1141,2025-05-31,Jeremiah Williams,Pune,Desk,Furniture,5.0,7000.0
+1048,2026-03-29,Chad Davis,Delhi,Desk,furniture,,7000.0
+1435,2025-05-28,David Mcguire, Delhi ,LAPTOP,Furniture,,1500.0
+1104,2025-10-02,Kendra Nicholson,Mumbai,Monitor,Furniture,,12000.0
+1315,2025-07-03,Keith Harris,Jaipur,Chair,Electronics,4.0,7000.0
+1301,2024-06-28,Dustin Bell,Mumbai,Desk,Electronics,3.0,
+1427,2025-08-08,Michele Santiago,Noida,Desk,Furniture,-1.0,4000.0
+1310,2025-04-20,Shelly Peters,Gurgaon,Laptop,furniture,3.0,500.0
+1244,2026-03-18,Jason Lowe,Gurgaon,Printer,furniture,1.0,12000.0
+1198,2025-11-22,Miranda Smith,Jaipur,laptop,Electronics,3.0,7000.0
+1311,2024-11-11,Ryan Cole,Gurgaon,Chair,Furniture,,4000.0
+1016,2024-12-29,Donald Hunter,Jaipur,Monitor,Furniture,-1.0,55000.0
+1173,2026-01-14,Amy Holmes,Noida,Printer,electronics,-1.0,7000.0
+1421,2025-01-29,Lynn Mason,Noida,Mouse,Electronics,-1.0,8000.0
+1059,2026-02-19,,Pune,Printer,Electronics,4.0,55000.0
+1447,2026-02-27,Wendy Brooks,Delhi,laptop,furniture,,1500.0
+1287,2025-03-25,Anthony Dominguez,Mumbi,Chair,electronics,-1.0,4000.0
+1088,2025-02-09,Paula Alvarez,Delhii,Mouse,Furniture,4.0,1500.0
+1300,2024-10-02,David Wilson,Mumbai,Chair,furniture,3.0,500.0
+1007,2025-07-13,Amanda Good,Delhii,laptop,Electronics,2.0,55000.0
+1355,2024-10-23,Darin Marks,Noida,Printer,Electronics,1.0,8000.0
+1134,2026-03-22,Lisa Lewis,Jaipur,LAPTOP,electronics,,
+1012,2026-01-26,Justin Spencer,Delhi,Laptop,furniture,2.0,4000.0
+1109,2025-04-07,Mathew Boyd,Mumbai,laptop,Electronics,1.0,7000.0
+1056,2024-07-30,Denise Stevens,Delhi,Mouse,furniture,-1.0,
+1290,2024-10-19,Bonnie Thompson,Noida,laptop,furniture,5.0,7000.0
+1422,2025-03-21,Angela Guerra,Mumbi,Chair,furniture,2.0,12000.0
+1249,2025-08-05,Kathryn Cantu,Delhi,Mouse,electronics,,55000.0
+1192,2024-10-21,Mckenzie Hicks, Delhi ,Mouse,electronics,4.0,55000.0
+1308,2025-11-04,Grace Davis,Noida,Monitor,electronics,3.0,
+1260,2025-09-30,Richard Gilbert,Delhi,Keyboard,electronics,5.0,8000.0
+1412,2024-09-23,Stephen Park,Mumbi,Monitor,electronics,-1.0,1500.0
+1385,2025-12-07,Amy Harris,Delhii,Keyboard,Electronics,3.0,8000.0
+1217,2026-02-01,Jacob Hopkins,Delhi,Desk,furniture,2.0,
+1253,2025-04-07,James Stein,Jaipur,Printer,furniture,4.0,12000.0
+1215,2025-04-12,Andrea Lee,Jaipur,Keyboard,furniture,5.0,7000.0
+1292,2025-05-07,Logan Johnston,Pune,Keyboard,furniture,2.0,
+1441,2025-09-29,,Jaipur,Mouse,electronics,,
+1066,2026-03-30,David Hoover,Pune,Laptop,Furniture,,12000.0
+1354,2025-01-02,Miss Yolanda Martinez,Pune,Laptop,Electronics,5.0,1500.0
+1200,2025-05-28,Dr. Robert Cruz DDS,Noida,Monitor,Electronics,2.0,1500.0
+1217,2025-08-18,Michael Peterson,Gurgaon,Monitor,Electronics,2.0,1500.0
+1139,2024-12-08,,Delhii,Keyboard,Furniture,,55000.0
+1169,2024-09-25,Jack Diaz,Mumbi,Mouse,electronics,5.0,500.0
+1172,2024-12-03,Casey Robertson,Delhii,LAPTOP,Electronics,,7000.0
+1204,2025-10-26,Stephanie Ross,Delhii,Desk,furniture,,4000.0
+1045,2025-12-09,Angela Flores,Gurgaon,Laptop,electronics,5.0,
+1364,2025-01-26,Christopher Green,Mumbi,Desk,Electronics,1.0,7000.0
+1129,2025-07-08,James Moore,Delhii,Printer,Electronics,3.0,1500.0
+1274,2025-08-20,Mary Mitchell,Pune,LAPTOP,Electronics,1.0,500.0
+1045,2025-04-12,Joyce Barton,Delhi,Laptop,Electronics,-1.0,12000.0
+1385,2025-07-05,Seth Lamb,Jaipur,Desk,furniture,1.0,12000.0
+1204,2026-04-12,Sarah Benjamin,Pune,Printer,electronics,1.0,4000.0
+1241,2026-03-25,Elizabeth Torres,Delhii,Chair,Electronics,3.0,4000.0
+1147,2025-01-11,Christopher Jarvis,Mumbi,Chair,Electronics,-1.0,500.0
+1134,2025-10-28,Carolyn Woods,Pune,Printer,Furniture,-1.0,8000.0
+1107,2025-07-15,Robert Baker,Delhi,Printer,electronics,3.0,55000.0
+1228,2024-07-29,Carrie Mckinney,Pune,laptop,Furniture,3.0,
+1191,2025-01-18,Sharon Taylor, Delhi ,laptop,electronics,,500.0
+1182,2026-03-02,Andrew Thornton,Noida,LAPTOP,electronics,-1.0,7000.0
+1016,2026-02-18,Courtney Lee,Delhii,Chair,electronics,-1.0,4000.0
+1051,2026-05-26,Michael Powell,Pune,Laptop,furniture,2.0,500.0
+1278,2025-09-19,Derek Martin,Pune,Chair,electronics,-1.0,7000.0
+1099,2025-03-26,Dr. Kristi Ellis,Noida,Keyboard,furniture,1.0,7000.0
+1332,2026-05-13,Michael Harrington,Jaipur,laptop,electronics,3.0,55000.0
+1292,2025-10-26,Kathleen Robertson,Mumbi,laptop,Furniture,-1.0,500.0
+1308,2025-12-24,Michael Deleon,Delhi,Printer,Furniture,5.0,500.0
+1310,2025-10-04,Ronald Carr,Delhi,LAPTOP,furniture,-1.0,1500.0
+1387,2024-09-08,Kevin Sullivan,Mumbai,Chair,Furniture,-1.0,12000.0
+1089,2024-06-16,Teresa Blair,Gurgaon,Chair,furniture,5.0,500.0
+1140,2025-03-19,Alan Saunders,Mumbi,Mouse,Electronics,2.0,55000.0
+1397,2025-07-09,Craig Wilson,Delhi,Mouse,Electronics,2.0,
+1381,2026-04-18,Mark Smith,Mumbai,laptop,Furniture,3.0,7000.0
+1081,2026-05-16,Raven Huber,Gurgaon,Monitor,electronics,5.0,500.0
+1196,2026-01-30,, Delhi ,Monitor,furniture,,12000.0
+1265,2026-05-31,Austin Diaz, Delhi ,LAPTOP,furniture,4.0,7000.0
+1039,2025-04-04,Miguel Vaughn,Gurgaon,Desk,furniture,-1.0,12000.0
+1171,2026-02-09,,Gurgaon,Laptop,Furniture,1.0,
+1372,2025-05-10,Amy Wright,Delhi,Keyboard,Electronics,2.0,500.0
+1178,2025-03-10,Shane Johnson,Delhii,Chair,Electronics,1.0,8000.0
+1024,2025-10-21,Jose Ramirez,Mumbi,Keyboard,Electronics,3.0,
+1014,2025-12-14,Robin Kim, Delhi ,Chair,furniture,,8000.0
+1409,2025-10-30,Susan Sanchez,Delhii,Monitor,Electronics,2.0,8000.0
+1312,2025-03-18,Karen Gonzalez,Delhii,Mouse,Electronics,4.0,55000.0
+1374,2025-11-25,Jessica Cox,Gurgaon,Chair,Furniture,2.0,4000.0
+1134,2025-03-15,Cassandra Vaughn,Delhi,Mouse,Furniture,2.0,1500.0
+1000,2025-09-22,Angela Robles,Pune,Monitor,Furniture,2.0,4000.0
+1170,2024-07-29,Raymond Trujillo,Delhi,Keyboard,electronics,1.0,12000.0
+1152,2025-10-19,Timothy Ashley, Delhi ,Desk,Electronics,2.0,500.0
+1419,2026-04-08,Emily Knight,Mumbi,Monitor,furniture,3.0,4000.0
+1061,2025-06-08,Rodney Davis,Delhi,Keyboard,Electronics,2.0,500.0
+1225,2025-12-05,Steven Sanchez,Mumbi,LAPTOP,furniture,2.0,4000.0
+1190,2025-12-29,Richard Martin,Delhii,Desk,furniture,,7000.0
+1338,2026-01-30,David Powell,Mumbi,LAPTOP,furniture,5.0,4000.0
+1021,2025-12-21,Sara Terrell, Delhi ,Desk,Furniture,2.0,
+1413,2024-11-11,Samantha Cooper,Delhi,Mouse,furniture,,12000.0
+1210,2025-01-23,Victoria Morris,Pune,Desk,Furniture,1.0,4000.0
+1219,2025-11-04,Crystal Anderson,Pune,Monitor,electronics,5.0,
+1154,2024-12-29,Heather Walker,Pune,laptop,Electronics,3.0,1500.0
+1123,2026-05-21,Yolanda Scott, Delhi ,laptop,electronics,,12000.0
+1350,2025-08-17,Jessica Ibarra,Jaipur,LAPTOP,furniture,3.0,55000.0
+1309,2025-11-04,Leah Curry MD,Mumbai,Keyboard,electronics,4.0,7000.0
+1236,2026-03-08,Aaron Chavez,Jaipur,Chair,Furniture,-1.0,12000.0
+1412,2025-11-28,Cindy Medina,Jaipur,Monitor,Furniture,-1.0,4000.0
+1037,2025-06-15,James Munoz,Jaipur,Mouse,electronics,2.0,1500.0
+1286,2026-04-13,Jacqueline Hale,Mumbi,Keyboard,electronics,1.0,12000.0
+1368,2025-11-15,Mark Ward Jr.,Jaipur,Monitor,furniture,1.0,1500.0
+1290,2026-04-20,Jessica Wells,Pune,Keyboard,Electronics,4.0,4000.0
+1228,2025-09-08,Jonathan Walton, Delhi ,Mouse,Electronics,5.0,
+1096,2024-08-05,Lisa Chapman, Delhi ,laptop,electronics,5.0,4000.0
+1069,2025-05-29,Vincent Cooper, Delhi ,laptop,furniture,4.0,1500.0
+1207,2025-09-20,James Oliver,Gurgaon,Printer,electronics,2.0,55000.0
+1196,2026-01-12,,Pune,Chair,Furniture,,7000.0
+1435,2025-05-28,David Mcguire, Delhi ,LAPTOP,Furniture,,1500.0
+1085,2025-03-23,Carlos Diaz,Delhi,Desk,electronics,1.0,1500.0
+1314,2025-09-11,Dawn Mckenzie,Mumbai,Laptop,Electronics,5.0,7000.0
+1440,2024-12-16,,Delhii,Laptop,Furniture,5.0,1500.0
+1191,2025-01-18,Sharon Taylor, Delhi ,laptop,electronics,,500.0
+1434,2025-10-29,Rebecca Harris,Delhi,Laptop,Furniture,4.0,55000.0
+1295,2026-03-27,Raven Case,Mumbai,Monitor,furniture,1.0,12000.0
+1059,2026-02-19,,Pune,Printer,Electronics,4.0,55000.0
+1434,2026-01-06,Amy Smith,Jaipur,Laptop,electronics,-1.0,1500.0
+1388,2024-07-17,Tammy Monroe,Delhi,Monitor,electronics,5.0,
+1014,2025-02-06,Joseph Wilson,Noida,Chair,electronics,5.0,55000.0
+1412,2025-11-28,Cindy Medina,Jaipur,Monitor,Furniture,-1.0,4000.0
+1044,2026-01-13,Jennifer Wright,Noida,Keyboard,furniture,4.0,12000.0
+1358,2024-06-04,Karen Stephenson,Jaipur,Chair,Electronics,5.0,7000.0
+1287,2025-03-25,Anthony Dominguez,Mumbi,Chair,electronics,-1.0,4000.0
+1154,2024-12-29,Heather Walker,Pune,laptop,Electronics,3.0,1500.0
+1123,2026-05-21,Yolanda Scott, Delhi ,laptop,electronics,,12000.0
+1412,2025-08-25,James Sparks,Mumbi,Mouse,Electronics,-1.0,8000.0
+1186,2024-09-06,Margaret Williams,Delhi,Laptop,Electronics,5.0,1500.0
+1017,2024-07-28,Jeffrey Greene,Jaipur,Desk,Furniture,1.0,8000.0
